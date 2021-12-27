@@ -32,56 +32,56 @@ export default {
                   lang: "JavaScript",
                   level: "Advanced",
                   num: "75",
-                  url:"",
+                  url:"https://i.imgur.com/Buw4ffO.png",
                   color: "is-warning"
               },
               {
                   lang: "NodeJS",
                   level: "Advance",
                   num: "75",
-                  url:"",
+                  url:"https://i.imgur.com/OOkygXN.png",
                   color: "is-primary"
               },
               {
                   lang: "VueJS",
                   level: "Advance",
                   num: "75",
-                  url:"",
+                  url:"https://i.imgur.com/65QJ1B2.png",
                   color: "is-primary"
               },
               {
                   lang: "Python",
                   level: "Intermediate",
                   num: "50",
-                  url:"",
+                  url:"https://i.imgur.com/ndkiuZV.png",
                   color: "is-info"
               },
               {
                   lang: "Java",
                   level: "Intermediate",
                   num: "50",
-                  url:"",
+                  url:"https://i.imgur.com/kUCY1qD.png",
                   color: "is-danger"
               },
               {
                   lang: "C",
                   level: "Basic",
                   num: "25",
-                  url:"",
+                  url:"https://i.imgur.com/b4GCbGs.png",
                   color: "is-link"
               },
               {
                   lang: "React Native",
                   level: "Basic",
                   num: "25",
-                  url:"",
+                  url:"https://i.imgur.com/MRRGvZ4.png",
                   color: "is-info"
               },
               {
                   lang: "Golang",
                   level: "Basic",
                   num: "25",
-                  url:"",
+                  url:"https://i.imgur.com/Pjv8dHw.png",
                   color: "is-info"
               },
           ]
