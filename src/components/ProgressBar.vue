@@ -29,8 +29,9 @@ export default {
         lang:String,
         level:String,
         num:String,
-        color:String
-    }
+        color:String,
+        url:String
+    },
 };
 </script>
 
